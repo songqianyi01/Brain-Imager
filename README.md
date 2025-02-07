@@ -2,6 +2,7 @@
 
 # Method
 ![model](https://github.com/songqianyi01/Brain-Imager/blob/main/image/brain_imager_model_16.jpg)
+
 ![neurs](https://github.com/songqianyi01/Brain-Imager/blob/main/image/Dual_Stream_model.jpg)
 
 # Installation
@@ -33,5 +34,5 @@ python Train_brain_captioning_mlp.py
 python inference.py
 ```
 # Results
-![results](https://github.com/songqianyi01/Brain-Imager/blob/main/image/results.jpg)
+![results](https://github.com/songqianyi01/Brain-Imager/blob/main/image/results.png)
 
