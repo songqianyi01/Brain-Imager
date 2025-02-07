@@ -4,7 +4,9 @@
 
 # Installation
 conda create -n Brain-Imager python==3.9
+
 conda activate Brain-Imager
+
 pip install -r requirement.txt
 
 # Data
