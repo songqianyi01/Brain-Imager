@@ -9,7 +9,7 @@ conda activate Brain-Imager
 pip install -r requirement.txt
 ```
 # Data
-This experiment used the same data set as previous studies.[data](https://huggingface.co/datasets/pscotti/naturalscenesdataset/tree/main/webdataset_avg_split)
+This experiment used the same [data](https://huggingface.co/datasets/pscotti/naturalscenesdataset/tree/main/webdataset_avg_split) set as previous studies.
 
 # Model
 Download files from this [versatile-diffusion](https://huggingface.co/shi-labs/versatile-diffusion/tree/main) and put it in folder versatile_diffusion.
