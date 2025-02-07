@@ -38,4 +38,7 @@ python inference.py
 
 ![results_captioning](https://github.com/songqianyi01/Brain-Imager/blob/main/image/results_brain_captioning.png)
 
+![interpretable](https://github.com/songqianyi01/Brain-Imager/blob/main/image/interpretability.png)
+
+
 
