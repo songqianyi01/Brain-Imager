@@ -1,5 +1,5 @@
 # Brain-Imager:A Multimodal Framework for Image Reconstruction and Captioning from Human Brain Activity
-
+We offer a webpage to showcase the [results](www.neuai4science.cn:5001/brain_visual_decode)
 # Method
 ![model](https://github.com/songqianyi01/Brain-Imager/blob/main/image/brain_imager_model_16.jpg)
 
