@@ -36,3 +36,6 @@ python inference.py
 # Results
 ![results](https://github.com/songqianyi01/Brain-Imager/blob/main/image/results.png)
 
+![results_captioning](https://github.com/songqianyi01/Brain-Imager/blob/main/image/results_brain_captioning.png)
+
+
