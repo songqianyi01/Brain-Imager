@@ -1,7 +1,7 @@
 # Brain-Imager:A Multimodal Framework for Image Reconstruction and Captioning from Human Brain Activity
 
 # Method
-
+![model]()
 # Installation
 ```
 conda create -n Brain-Imager python==3.9
