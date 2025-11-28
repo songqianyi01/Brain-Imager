@@ -2,7 +2,7 @@
 We offer a webpage to showcase the results: www.neuai4science.cn:5001/brain_visual_decode
 
 # Method
-![model](https://github.com/songqianyi01/Brain-Imager/blob/main/image/brain_imager_model_16.jpg)
+![model](https://github.com/songqianyi01/Brain-Imager/blob/main/image/model.jpg)
 
 ![neurs](https://github.com/songqianyi01/Brain-Imager/blob/main/image/Dual_Stream_model.jpg)
 
